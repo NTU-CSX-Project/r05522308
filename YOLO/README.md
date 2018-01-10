@@ -1,2 +1,1 @@
-<a href="https://youtu.be/Cb4qmzEW3BA" target="_blank"></a>
-[link text](video link)
+video link![https://youtu.be/Cb4qmzEW3BA]("https://youtu.be/Cb4qmzEW3BA")
